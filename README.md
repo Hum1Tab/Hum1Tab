@@ -16,7 +16,7 @@
 - 🎸 Anime enthusiast | STEINS;GATE | 響け！ユーフォニアム🎵 | Angel Beats!
 - 🎮 gamer | valo | lol | ow | fortnite | Shadowverse | Pokémon Champions
 - 📫 Feel free to connect and share cool ideas:
-  <a href="https://x.com/shinokawa_s?s=11&t=HDQVZfhLxUsm5D1WKnvr1Q" target="_blank">X</a> ｜
+  <a href="https://x.com/Humiell" target="_blank">X</a> ｜
   <a href="humita9@gmail.com">Email</a>
 
 <br clear="both">
