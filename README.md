@@ -1,10 +1,10 @@
 <h1 align="center">
   Hi there, Humi desu が、がお…
+  <img src="https://count.getloli.com/get/@Hum1Tab?theme=moebooru" alt="訪問者カウンター" width="600" />
 </h1>
 <p align="center">
   <em>"Ideas matter more than syntax." 🪄✨</em>
 </p>
-<img src="https://count.getloli.com/get/@Hum1Tab?theme=moebooru" alt="訪問者カウンター" width="600" />
 ---
 
 <img align="right" src="2019-09-24 18.12.58.jpg" width="190" alt="Humi"/>
