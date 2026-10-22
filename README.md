@@ -74,7 +74,6 @@
 | Project | What it does |
 | :-- | :-- |
 | 🟢 **[Greenblind](https://github.com/Hum1Tab/greenblind)** | テストが通ったまま見逃されるコード変更を検出する、軽量な検証ツール。 |
-| 🔍 **[Novel Lens](https://github.com/Hum1Tab/novel-lens)** | 原稿の所有権と根拠付きAIレビューを重視した小説制作環境。 |
 | 🎨 **[appicon-craft](https://github.com/Hum1Tab/appicon-craft)** | 質感・輪郭・小サイズの見やすさまで考えるアプリアイコン制作Skill。 |
 | 🧠 **[Universal Article Writer](https://github.com/Hum1Tab/universal-article-writer)** | 出典の検証、論理構造、反論検討を重視したAI記事執筆プロトコル。 |
 | 📚 **[English Exam Print Kit](https://github.com/Hum1Tab/english-exam-print-kit-skills)** | 英語過去問から解説・単語リスト・印刷用PDFをつくるAgent Skill。 |
